@@ -9,7 +9,7 @@
     background-color: #1C1D25;
 	  color: #fff;
     padding: 10px;
-    font-family: 'Coda', cursive;
+    font-family: 'Georgia', cursive;
 
     
 }
@@ -307,7 +307,7 @@ color: #FFFD38 !important
         font-size: 50px;
         font-weight: bold;
         margin-bottom: 30px;
-        font-family: 'Titillium Web', sans-serif;
+        font-family: 'Georgia', sans-serif;
         margin-top:0;
         color:#FFFD38
     }
@@ -331,7 +331,7 @@ color: #FFFD38 !important
     margin: 40px;
     font-size: 20px;
     font-weight: bold;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Georgia', sans-serif;
     color: #FFFFFF;
 } 
 
@@ -366,14 +366,14 @@ color: #FFFD38 !important
 .copyright h1{
       color: #D7B065;
       font-size: 15px;
-      font-family: 'Joti One', cursive;
+      font-family: 'Georgia', cursive;
 
   }
 
 .copyright p{
     color: #E9634E;
     font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, sans-serif;
 }
   
 
