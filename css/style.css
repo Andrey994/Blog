@@ -155,7 +155,6 @@ color: #FFFD38;
  
 .me{
      background-color: #222222;
-
  }
  
 .about h1{
@@ -164,7 +163,6 @@ color: #FFFD38;
     text-align: center;
     color: #DF2954;
     margin-top: 10px;
-
  }
  
 .about p{
@@ -187,6 +185,49 @@ color: #FFFD38;
     }
   }
 
+/* Education*/
+
+.education {
+    width: 100%;
+    background-color: #1C1D25;
+    }
+
+.education h2{
+        font-size: 50px;
+        font-weight: bold;
+        margin-bottom: 30px;
+        font-family: Georgia, sans-serif;
+        margin-top:0;
+        color:#FFFD38
+    }
+
+.education img{
+    border-radius: 100%;
+}
+
+.team {
+    background: #1C1D25;
+    color: #fff;
+    padding-bottom: 40px;
+    padding-top: 40px
+}
+
+.education .collage{
+    margin-bottom: 40px
+}
+
+.education p{
+    margin: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, sans-serif;
+    color: #FFFFFF;
+} 
+
+.education a{
+    color: #F3F3F3;
+
+}
 
 /* My skills */
 
@@ -224,7 +265,6 @@ color: #FFFD38;
     font-family: Georgia, sans-serif;
 }
 
-
 /* My works */
 
 .my-works{
@@ -239,7 +279,6 @@ color: #FFFD38;
     font-family: Georgia, sans-serif;
     margin-top:0;
   }
-
 
 .p1:first-child{
     margin-bottom: 20px;
@@ -288,52 +327,6 @@ color: #FFFD38;
      }
    }
 
-
-/* Education*/
-
-.education {
-    width: 100%;
-    background-color: #1C1D25;
-    }
-
-.education h2{
-        font-size: 50px;
-        font-weight: bold;
-        margin-bottom: 30px;
-        font-family: Georgia, sans-serif;
-        margin-top:0;
-        color:#FFFD38
-    }
-
-.education img{
-    border-radius: 100%;
-}
-
-.team {
-    background: #1C1D25;
-    color: #fff;
-    padding-bottom: 40px;
-    padding-top: 40px
-}
-
-.education .collage{
-    margin-bottom: 40px
-}
-
-.education p{
-    margin: 40px;
-    font-size: 20px;
-    font-weight: bold;
-    font-family: Georgia, sans-serif;
-    color: #FFFFFF;
-} 
-
-.education a{
-    color: #F3F3F3;
-
-}
-
-
 /* Footer */
 
 .copyright {
@@ -368,7 +361,6 @@ color: #FFFD38;
     font-size: 15px;
     font-family: Georgia, sans-serif;
 }
-  
 
 #myBtn {
     display: none; 
