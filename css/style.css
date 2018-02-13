@@ -1,7 +1,7 @@
-* {
-    transition: all 1000ms ease-out;
-    -webkit-moz-transition: all 1000ms ease-out;
-  }
+/** {*/
+/*    transition: all 1000ms ease-out;*/
+/*    -webkit-moz-transition: all 1000ms ease-out;*/
+/*  }*/
   
  /* Upper Bar */
 
@@ -229,13 +229,19 @@ color: #FFFD38;
 
 }
 
+/* hrContent */
+
+.hrContent {
+	border: 0;
+	border: 1px dashed #ccc;
+}
+
 /* My skills */
 
 .skills {
    padding-bottom: 70px;
    width: 100%;
    background-color: #1C1D25;
-   margin-top: 10px
 }
 
 .skills h3 {
