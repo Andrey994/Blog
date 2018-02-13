@@ -1,6 +1,6 @@
 * {
     transition: all 1000ms ease-out;
-    -webkit-transition: all 1000ms ease-out;
+    -webkit-moz-transition: all 1000ms ease-out;
   }
   
  /* Upper Bar */
@@ -74,13 +74,12 @@
 	font-size: 15px;
 	margin-left: 20px;
     font-weight: bold;
-    color: #fff !important;
     font-family: Georgia, cursive;
     
 }
 
-.navbar-nav .active > .nav-link {
-color: #FFFD38 !important
+.navbar-nav .active > .nav-link:first-child {
+color: #FFFD38;
 }
 
 
@@ -221,12 +220,12 @@ color: #FFFD38 !important
 }
 
 .skills .progress{
-    height: 25px;
+    height: 20px;
     background-color: #1C1D25
 }
 
 .skills .progress-bar{
-    height: 40px;
+    height: 30px;
     font-size: 15px; 
     font-weight: bold;
     text-align: left;
